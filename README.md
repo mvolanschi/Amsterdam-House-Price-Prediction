@@ -12,7 +12,7 @@ The analysis pipeline consists of the following steps:
 2. **Data Preprocessing**:
    - Zip code encoding.
    - Handling missing values.
-   - Calculating additional features such as median price per zip code and price per square meter.
+   - Calculating additional features such as median price per zip code, price per square meter and distance to city center.
 
 3. **Exploratory Data Analysis (EDA)**:
    - Heatmap to visualize feature correlations.
