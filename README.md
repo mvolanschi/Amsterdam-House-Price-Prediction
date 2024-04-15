@@ -1,7 +1,7 @@
 # Amsterdam-House-Price-Prediction
 
 Amsterdam Housing Price Analysis
-This project aims to analyze housing prices in Amsterdam using machine learning techniques. It includes data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
+This project aims to analyze housing prices in Amsterdam using machine learning. It includes data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
 
 ## Overview
 
