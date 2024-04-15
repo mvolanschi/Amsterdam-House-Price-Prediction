@@ -26,4 +26,4 @@ The analysis pipeline consists of the following steps:
 
 5. **Evaluation**:
    - Final accuracy score of the best model.
-
+   - Feature importance.
